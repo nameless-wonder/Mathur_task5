@@ -186,7 +186,7 @@ print(X_train_flat.shape)
 
 
 # In[48]:
-
+##multi-layer perceptron starts from here
 
 class varMLP():
     def __init__(self,learning_rate,num_hidden,sizes,momentum,loss,opt,batch_size,anneal):
